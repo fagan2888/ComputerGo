@@ -4,11 +4,11 @@ Deep Learning architecture for Computer Go with a constraint of less than one mi
 
 ## Report
 
-The report summurazing the results and the approach:  'ComputerGo.pdf' 
+The report summurazing the results and the approach:  ```ComputerGo.pdf``` 
 
 ## Architecture and Notebook
 
-The codes related to the architecture 'goliath_utlimate.py' and the training of the network 'Goliath_ultimate_notebook.ipynb'
+The codes related to the architecture ```goliath_utlimate.py``` and the training of the network ```Goliath_ultimate_notebook.ipynb```
 
 ## Reference 
 
